@@ -1,0 +1,8 @@
+path: dataset
+train: images/train
+val: images/val
+
+names:
+  0: crosswalk
+  1: no_parking
+  2: speed_limit
